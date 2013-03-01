@@ -1,0 +1,1 @@
+SELECT * from stats  where dialdate = '2013-02-20 00:00:00' and agent != '' order BY agent ASC
